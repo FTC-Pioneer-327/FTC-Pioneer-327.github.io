@@ -1,2 +1,2 @@
-# Pioneer-robotics.github.io
-Official website for Pioneer Robotics at Catalina Foothills High School.
+# pioneer-robotics.github.io
+[Official Site](https://sites.google.com/fh.cfsd16.org/pioneer)
